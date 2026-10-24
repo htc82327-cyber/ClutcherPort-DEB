@@ -1,0 +1,9 @@
+Package: com.thxrealx7.clutcherport
+Name: Clutcher Port
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Description: Native iOS wrapper for Clutcher.io with mobile controls and XCLUTCH.
+Maintainer: thxrealx7
+Author: thxrealx7
+Section: Games
+Depends: firmware (>= 16.0)
